@@ -7,3 +7,5 @@ to help BumbleB
 the pythonm tutorials from CS Dojo for absolute beginners:
 https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg
 enjoy!
+also a full length tutorial fro the freecodecamp.org...it's really good!
+https://www.youtube.com/watch?v=rfscVS0vtbw
